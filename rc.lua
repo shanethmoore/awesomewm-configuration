@@ -9,7 +9,7 @@ require("naughty")
 
 -- {{{ Variable definitions
 -- Themes define colours, icons, and wallpapers
-beautiful.init("/home/shane/.config/awesome/themes/niceandclean/theme.lua")
+beautiful.init("/home/shane/.config/awesome/theme/theme.lua")
 
 -- This is used later as the default terminal and editor to run.
 terminal = "x-terminal-emulator"
